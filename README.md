@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanguturipavan
 - 👀 I’m interested in full stack developer 
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on internships 
 - 📫 How to reach me tanguturipavan52@gmail.com
 
 <!---
